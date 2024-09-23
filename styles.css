@@ -1,5 +1,7 @@
 body {
   background:#626262;
+  border: solid;
+  border-radius: 5px;
 }
 
 .about {

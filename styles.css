@@ -4,16 +4,28 @@ body {
 
 .about {
   background:#82d5ff;
+  margin-left:10px;
+  margin-right:10px;
+  margin-top:10px;
 }
 
 .skills {
-  background:#82d5ff;
+  background:#f803fc;
+  margin-left:10px;
+  margin-right:10px;
+  margin-top:10px;
 }
 
 .projects {
   background:##82d5ff;
+  margin-left:10px;
+  margin-right:10px;
+  margin-top:10px;
 }
 
 .contact {
-  background:#82d5ff;
+  background:#fc2c03;
+  margin-left:10px;
+  margin-right:10px;
+  margin-top:10px;
 }

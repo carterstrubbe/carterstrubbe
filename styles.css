@@ -35,6 +35,12 @@ body {
   margin-top:10px;
 }
 
+.project {
+  width-max:30%;
+  margin:10px;
+  padding:20px 10px;
+}
+
 .contact {
   background:#fc2c03;
   border: solid;

@@ -8,6 +8,7 @@ body {
 img {
   width: 80%;
   height: auto;
+  max-width: 80%;
 }
 
 .about {
